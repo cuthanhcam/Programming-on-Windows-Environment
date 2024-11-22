@@ -1,0 +1,7 @@
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Week_02\Week_02\bin\Debug\Week_02.exe.config
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Week_02\Week_02\bin\Debug\Week_02.exe
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Week_02\Week_02\bin\Debug\Week_02.pdb
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Week_02\Week_02\obj\Debug\Week_02.csproj.AssemblyReference.cache
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Week_02\Week_02\obj\Debug\Week_02.csproj.CoreCompileInputs.cache
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Week_02\Week_02\obj\Debug\Week_02.exe
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Week_02\Week_02\obj\Debug\Week_02.pdb
