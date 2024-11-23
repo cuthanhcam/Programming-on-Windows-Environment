@@ -7,8 +7,20 @@
       "RelativeMoniker": "D:0:0:{A171F3A8-C9C5-4F1C-94B4-427B5FD7AC3B}|Week_02\\Week_02.csproj|solutionrelative:week_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A171F3A8-C9C5-4F1C-94B4-427B5FD7AC3B}|Week_02\\Week_02.csproj|d:\\sourcecode\\visualstudio\\csharp\\programming-on-windows-environment\\week_02\\week_02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A171F3A8-C9C5-4F1C-94B4-427B5FD7AC3B}|Week_02\\Week_02.csproj|D:\\SourceCode\\VisualStudio\\CSharp\\Programming-on-Windows-Environment\\Week_02\\week_02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A171F3A8-C9C5-4F1C-94B4-427B5FD7AC3B}|Week_02\\Week_02.csproj|solutionrelative:week_02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A171F3A8-C9C5-4F1C-94B4-427B5FD7AC3B}|Week_02\\Week_02.csproj|d:\\sourcecode\\visualstudio\\csharp\\programming-on-windows-environment\\week_02\\week_02\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A171F3A8-C9C5-4F1C-94B4-427B5FD7AC3B}|Week_02\\Week_02.csproj|solutionrelative:week_02\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A171F3A8-C9C5-4F1C-94B4-427B5FD7AC3B}|Week_02\\Week_02.csproj|d:\\sourcecode\\visualstudio\\csharp\\programming-on-windows-environment\\week_02\\week_02\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A171F3A8-C9C5-4F1C-94B4-427B5FD7AC3B}|Week_02\\Week_02.csproj|solutionrelative:week_02\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A171F3A8-C9C5-4F1C-94B4-427B5FD7AC3B}|Week_02\\Week_02.csproj|d:\\sourcecode\\visualstudio\\csharp\\programming-on-windows-environment\\week_02\\week_02\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A171F3A8-C9C5-4F1C-94B4-427B5FD7AC3B}|Week_02\\Week_02.csproj|solutionrelative:week_02\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\SourceCode\\VisualStudio\\CSharp\\Programming-on-Windows-Environment\\Week_02\\Week_02\\Dog.cs",
+              "RelativeDocumentMoniker": "Week_02\\Dog.cs",
+              "ToolTip": "D:\\SourceCode\\VisualStudio\\CSharp\\Programming-on-Windows-Environment\\Week_02\\Week_02\\Dog.cs",
+              "RelativeToolTip": "Week_02\\Dog.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:53:31.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "D:\\SourceCode\\VisualStudio\\CSharp\\Programming-on-Windows-Environment\\Week_02\\Week_02\\Cat.cs",
+              "RelativeDocumentMoniker": "Week_02\\Cat.cs",
+              "ToolTip": "D:\\SourceCode\\VisualStudio\\CSharp\\Programming-on-Windows-Environment\\Week_02\\Week_02\\Cat.cs",
+              "RelativeToolTip": "Week_02\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:53:03.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\SourceCode\\VisualStudio\\CSharp\\Programming-on-Windows-Environment\\Week_02\\Week_02\\Animal.cs",
+              "RelativeDocumentMoniker": "Week_02\\Animal.cs",
+              "ToolTip": "D:\\SourceCode\\VisualStudio\\CSharp\\Programming-on-Windows-Environment\\Week_02\\Week_02\\Animal.cs",
+              "RelativeToolTip": "Week_02\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:52:46.043Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,7 +83,7 @@
               "RelativeDocumentMoniker": "Week_02\\Student.cs",
               "ToolTip": "D:\\SourceCode\\VisualStudio\\CSharp\\Programming-on-Windows-Environment\\Week_02\\Week_02\\Student.cs",
               "RelativeToolTip": "Week_02\\Student.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T07:41:45.376Z",
               "EditorCaption": ""
@@ -45,7 +96,7 @@
               "RelativeDocumentMoniker": "Week_02\\Program.cs",
               "ToolTip": "D:\\SourceCode\\VisualStudio\\CSharp\\Programming-on-Windows-Environment\\Week_02\\Week_02\\Program.cs",
               "RelativeToolTip": "Week_02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T07:38:42.489Z",
               "EditorCaption": ""

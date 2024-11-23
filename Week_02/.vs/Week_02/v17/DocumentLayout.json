@@ -11,15 +11,15 @@
       "RelativeMoniker": "D:0:0:{A171F3A8-C9C5-4F1C-94B4-427B5FD7AC3B}|Week_02\\Week_02.csproj|solutionrelative:week_02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A171F3A8-C9C5-4F1C-94B4-427B5FD7AC3B}|Week_02\\Week_02.csproj|d:\\sourcecode\\visualstudio\\csharp\\programming-on-windows-environment\\week_02\\week_02\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A171F3A8-C9C5-4F1C-94B4-427B5FD7AC3B}|Week_02\\Week_02.csproj|D:\\SourceCode\\VisualStudio\\CSharp\\Programming-on-Windows-Environment\\Week_02\\week_02\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A171F3A8-C9C5-4F1C-94B4-427B5FD7AC3B}|Week_02\\Week_02.csproj|solutionrelative:week_02\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A171F3A8-C9C5-4F1C-94B4-427B5FD7AC3B}|Week_02\\Week_02.csproj|d:\\sourcecode\\visualstudio\\csharp\\programming-on-windows-environment\\week_02\\week_02\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A171F3A8-C9C5-4F1C-94B4-427B5FD7AC3B}|Week_02\\Week_02.csproj|D:\\SourceCode\\VisualStudio\\CSharp\\Programming-on-Windows-Environment\\Week_02\\week_02\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A171F3A8-C9C5-4F1C-94B4-427B5FD7AC3B}|Week_02\\Week_02.csproj|solutionrelative:week_02\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A171F3A8-C9C5-4F1C-94B4-427B5FD7AC3B}|Week_02\\Week_02.csproj|d:\\sourcecode\\visualstudio\\csharp\\programming-on-windows-environment\\week_02\\week_02\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A171F3A8-C9C5-4F1C-94B4-427B5FD7AC3B}|Week_02\\Week_02.csproj|D:\\SourceCode\\VisualStudio\\CSharp\\Programming-on-Windows-Environment\\Week_02\\week_02\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A171F3A8-C9C5-4F1C-94B4-427B5FD7AC3B}|Week_02\\Week_02.csproj|solutionrelative:week_02\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,8 +46,7 @@
               "RelativeToolTip": "Week_02\\Dog.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T07:53:31.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T07:53:31.193Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "Week_02\\Cat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T07:53:03.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T07:53:03.327Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "Week_02\\Animal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T07:52:46.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T07:52:46.043Z"
             },
             {
               "$type": "Document",
@@ -85,8 +82,7 @@
               "RelativeToolTip": "Week_02\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T07:41:45.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T07:41:45.376Z"
             },
             {
               "$type": "Document",

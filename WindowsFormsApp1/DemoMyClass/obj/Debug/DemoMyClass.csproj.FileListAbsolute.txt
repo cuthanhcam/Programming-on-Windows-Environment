@@ -1,0 +1,10 @@
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\WindowsFormsApp1\DemoMyClass\bin\Debug\DemoMyClass.exe.config
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\WindowsFormsApp1\DemoMyClass\bin\Debug\DemoMyClass.exe
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\WindowsFormsApp1\DemoMyClass\bin\Debug\DemoMyClass.pdb
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\WindowsFormsApp1\DemoMyClass\obj\Debug\DemoMyClass.csproj.AssemblyReference.cache
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\WindowsFormsApp1\DemoMyClass\obj\Debug\DemoMyClass.Form1.resources
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\WindowsFormsApp1\DemoMyClass\obj\Debug\DemoMyClass.Properties.Resources.resources
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\WindowsFormsApp1\DemoMyClass\obj\Debug\DemoMyClass.csproj.GenerateResource.cache
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\WindowsFormsApp1\DemoMyClass\obj\Debug\DemoMyClass.csproj.CoreCompileInputs.cache
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\WindowsFormsApp1\DemoMyClass\obj\Debug\DemoMyClass.exe
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\WindowsFormsApp1\DemoMyClass\obj\Debug\DemoMyClass.pdb
