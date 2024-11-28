@@ -1,0 +1,17 @@
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Homework_Session_3\Homework_Session_3\bin\Debug\net7.0-windows\Homework_Session_3.exe
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Homework_Session_3\Homework_Session_3\bin\Debug\net7.0-windows\Homework_Session_3.deps.json
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Homework_Session_3\Homework_Session_3\bin\Debug\net7.0-windows\Homework_Session_3.runtimeconfig.json
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Homework_Session_3\Homework_Session_3\bin\Debug\net7.0-windows\Homework_Session_3.dll
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Homework_Session_3\Homework_Session_3\bin\Debug\net7.0-windows\Homework_Session_3.pdb
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Homework_Session_3\Homework_Session_3\obj\Debug\net7.0-windows\Homework_Session_3.Form1.resources
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Homework_Session_3\Homework_Session_3\obj\Debug\net7.0-windows\Homework_Session_3.csproj.GenerateResource.cache
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Homework_Session_3\Homework_Session_3\obj\Debug\net7.0-windows\Homework_Session_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Homework_Session_3\Homework_Session_3\obj\Debug\net7.0-windows\Homework_Session_3.AssemblyInfoInputs.cache
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Homework_Session_3\Homework_Session_3\obj\Debug\net7.0-windows\Homework_Session_3.AssemblyInfo.cs
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Homework_Session_3\Homework_Session_3\obj\Debug\net7.0-windows\Homework_Session_3.csproj.CoreCompileInputs.cache
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Homework_Session_3\Homework_Session_3\obj\Debug\net7.0-windows\Homework_Session_3.sourcelink.json
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Homework_Session_3\Homework_Session_3\obj\Debug\net7.0-windows\Homework_Session_3.dll
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Homework_Session_3\Homework_Session_3\obj\Debug\net7.0-windows\refint\Homework_Session_3.dll
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Homework_Session_3\Homework_Session_3\obj\Debug\net7.0-windows\Homework_Session_3.pdb
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Homework_Session_3\Homework_Session_3\obj\Debug\net7.0-windows\Homework_Session_3.genruntimeconfig.cache
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Homework_Session_3\Homework_Session_3\obj\Debug\net7.0-windows\ref\Homework_Session_3.dll
