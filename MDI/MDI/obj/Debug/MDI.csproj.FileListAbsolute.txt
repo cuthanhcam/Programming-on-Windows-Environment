@@ -1,0 +1,11 @@
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\MDI\MDI\bin\Debug\MDI.exe.config
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\MDI\MDI\bin\Debug\MDI.exe
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\MDI\MDI\bin\Debug\MDI.pdb
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\MDI\MDI\obj\Debug\MDI.csproj.AssemblyReference.cache
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\MDI\MDI\obj\Debug\MDI.Form1.resources
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\MDI\MDI\obj\Debug\MDI.Form2.resources
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\MDI\MDI\obj\Debug\MDI.Properties.Resources.resources
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\MDI\MDI\obj\Debug\MDI.csproj.GenerateResource.cache
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\MDI\MDI\obj\Debug\MDI.csproj.CoreCompileInputs.cache
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\MDI\MDI\obj\Debug\MDI.exe
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\MDI\MDI\obj\Debug\MDI.pdb
