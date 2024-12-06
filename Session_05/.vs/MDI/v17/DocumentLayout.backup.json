@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SourceCode\\VisualStudio\\CSharp\\Programming-on-Windows-Environment\\MDI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EC98BC-F222-4C7C-B410-929082CEB69C}|Lab03-01\\Lab03-01.csproj|d:\\sourcecode\\visualstudio\\csharp\\programming-on-windows-environment\\mdi\\lab03-01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9EC98BC-F222-4C7C-B410-929082CEB69C}|Lab03-01\\Lab03-01.csproj|solutionrelative:lab03-01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EC98BC-F222-4C7C-B410-929082CEB69C}|Lab03-01\\Lab03-01.csproj|d:\\sourcecode\\visualstudio\\csharp\\programming-on-windows-environment\\mdi\\lab03-01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9EC98BC-F222-4C7C-B410-929082CEB69C}|Lab03-01\\Lab03-01.csproj|solutionrelative:lab03-01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EC98BC-F222-4C7C-B410-929082CEB69C}|Lab03-01\\Lab03-01.csproj|d:\\sourcecode\\visualstudio\\csharp\\programming-on-windows-environment\\mdi\\lab03-01\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9EC98BC-F222-4C7C-B410-929082CEB69C}|Lab03-01\\Lab03-01.csproj|solutionrelative:lab03-01\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\SourceCode\\VisualStudio\\CSharp\\Programming-on-Windows-Environment\\MDI\\Lab03-01\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab03-01\\Form1.Designer.cs",
+              "ToolTip": "D:\\SourceCode\\VisualStudio\\CSharp\\Programming-on-Windows-Environment\\MDI\\Lab03-01\\Form1.Designer.cs*",
+              "RelativeToolTip": "Lab03-01\\Form1.Designer.cs*",
+              "ViewState": "AgIAAKkAAAAAAAAAAAArwMMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:32:43.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\SourceCode\\VisualStudio\\CSharp\\Programming-on-Windows-Environment\\MDI\\Lab03-01\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab03-01\\Form1.cs",
+              "ToolTip": "D:\\SourceCode\\VisualStudio\\CSharp\\Programming-on-Windows-Environment\\MDI\\Lab03-01\\Form1.cs*",
+              "RelativeToolTip": "Lab03-01\\Form1.cs*",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAgwI0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:29:24.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\SourceCode\\VisualStudio\\CSharp\\Programming-on-Windows-Environment\\MDI\\Lab03-01\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab03-01\\Form1.cs",
+              "ToolTip": "D:\\SourceCode\\VisualStudio\\CSharp\\Programming-on-Windows-Environment\\MDI\\Lab03-01\\Form1.cs [Design]*",
+              "RelativeToolTip": "Lab03-01\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:16:43.734Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

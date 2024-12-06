@@ -1,0 +1,10 @@
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\MDI\Lab03-01\bin\Debug\Lab03-01.exe.config
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\MDI\Lab03-01\bin\Debug\Lab03-01.exe
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\MDI\Lab03-01\bin\Debug\Lab03-01.pdb
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\MDI\Lab03-01\obj\Debug\Lab03-01.csproj.AssemblyReference.cache
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\MDI\Lab03-01\obj\Debug\Lab03_01.Form1.resources
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\MDI\Lab03-01\obj\Debug\Lab03_01.Properties.Resources.resources
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\MDI\Lab03-01\obj\Debug\Lab03-01.csproj.GenerateResource.cache
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\MDI\Lab03-01\obj\Debug\Lab03-01.csproj.CoreCompileInputs.cache
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\MDI\Lab03-01\obj\Debug\Lab03-01.exe
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\MDI\Lab03-01\obj\Debug\Lab03-01.pdb
