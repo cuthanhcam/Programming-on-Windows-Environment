@@ -31,33 +31,64 @@
 *.out
 *.app
 
-*.bin/
-*.obj/
-*.vs/
-
-bin/
-obj/
-vs/
-
-# Thư mục chứa các NuGet package
-/packages/
-
-# Thư mục chứa các file build của Visual Studio
+# Directories for compiled binaries
 /bin/
 /obj/
+/vs/
+/build/
 
-# Các file cấu hình của NuGet, nếu có
-/project.assets.json
-/project.lock.json
+# NuGet Packages
+/packages/
+*.nupkg
+*.snupkg
 
-# Các file khác không liên quan
+# Project-specific configuration files
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
+*.sln.ide
+*.vsconfig
 
-# Những file tạm thời của Visual Studio
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Visual Studio Code settings
+.vscode/
+
+# Visual Studio temporary files
 .vs/
+.ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cache
+*.ilk
+*.idb
+*.pdb
+*.tlog
+*.lastbuildstate
 
-# Cấu hình của các IDE khác
+# Backup files
+*.bak
+*.old
+*.orig
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+ehthumbs.db
+Icon?
+
+# IDE-specific directories
 .idea/
+*.iml
+
+# Other temporary directories and files
+*.swp
+*.lock
+*.directory
+*.~lock.*

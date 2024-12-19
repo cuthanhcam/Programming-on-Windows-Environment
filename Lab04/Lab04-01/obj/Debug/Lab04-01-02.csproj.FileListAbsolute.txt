@@ -1,0 +1,17 @@
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment-Lab\Lab04\Lab04-01\bin\Debug\Lab04-01.exe.config
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment-Lab\Lab04\Lab04-01\bin\Debug\Lab04-01.exe
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment-Lab\Lab04\Lab04-01\bin\Debug\Lab04-01.pdb
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment-Lab\Lab04\Lab04-01\bin\Debug\EntityFramework.dll
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment-Lab\Lab04\Lab04-01\bin\Debug\EntityFramework.SqlServer.dll
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment-Lab\Lab04\Lab04-01\bin\Debug\EntityFramework.xml
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment-Lab\Lab04\Lab04-01\bin\Debug\EntityFramework.SqlServer.xml
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment-Lab\Lab04\Lab04-01\obj\Debug\Lab04-01-02.csproj.AssemblyReference.cache
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment-Lab\Lab04\Lab04-01\obj\Debug\Lab04_01.frmStudentManagement.resources
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment-Lab\Lab04\Lab04-01\obj\Debug\Lab04_01.Properties.Resources.resources
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment-Lab\Lab04\Lab04-01\obj\Debug\Lab04-01-02.csproj.GenerateResource.cache
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment-Lab\Lab04\Lab04-01\obj\Debug\Lab04-01-02.csproj.CoreCompileInputs.cache
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment-Lab\Lab04\Lab04-01\obj\Debug\Lab04-01.D0D44B33.Up2Date
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment-Lab\Lab04\Lab04-01\obj\Debug\Lab04-01.exe
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment-Lab\Lab04\Lab04-01\obj\Debug\Lab04-01.pdb
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment-Lab\Lab04\Lab04-01\obj\Debug\Lab04_01.frmFacultyManagement.resources
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment-Lab\Lab04\Lab04-01\obj\Debug\Lab04_01.frmSearch.resources
