@@ -1,0 +1,15 @@
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\CuThanhCam_2280600285\De01\De01\bin\Debug\De01.exe.config
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\CuThanhCam_2280600285\De01\De01\bin\Debug\De01.exe
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\CuThanhCam_2280600285\De01\De01\bin\Debug\De01.pdb
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\CuThanhCam_2280600285\De01\De01\bin\Debug\EntityFramework.dll
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\CuThanhCam_2280600285\De01\De01\bin\Debug\EntityFramework.SqlServer.dll
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\CuThanhCam_2280600285\De01\De01\bin\Debug\EntityFramework.xml
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\CuThanhCam_2280600285\De01\De01\bin\Debug\EntityFramework.SqlServer.xml
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\CuThanhCam_2280600285\De01\De01\obj\Debug\De01.csproj.AssemblyReference.cache
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\CuThanhCam_2280600285\De01\De01\obj\Debug\De01.frmStudent.resources
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\CuThanhCam_2280600285\De01\De01\obj\Debug\De01.Properties.Resources.resources
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\CuThanhCam_2280600285\De01\De01\obj\Debug\De01.csproj.GenerateResource.cache
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\CuThanhCam_2280600285\De01\De01\obj\Debug\De01.csproj.CoreCompileInputs.cache
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\CuThanhCam_2280600285\De01\De01\obj\Debug\De01.csproj.Up2Date
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\CuThanhCam_2280600285\De01\De01\obj\Debug\De01.exe
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\CuThanhCam_2280600285\De01\De01\obj\Debug\De01.pdb
