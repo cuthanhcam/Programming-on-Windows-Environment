@@ -1,0 +1,15 @@
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Session_08\Session_08.BUS\bin\Debug\Session_08.BUS.dll.config
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Session_08\Session_08.BUS\bin\Debug\Session_08.BUS.dll
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Session_08\Session_08.BUS\bin\Debug\Session_08.BUS.pdb
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Session_08\Session_08.BUS\bin\Debug\EntityFramework.dll
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Session_08\Session_08.BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Session_08\Session_08.BUS\bin\Debug\Session_08.DAL.dll
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Session_08\Session_08.BUS\bin\Debug\Session_08.DAL.pdb
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Session_08\Session_08.BUS\bin\Debug\Session_08.DAL.dll.config
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Session_08\Session_08.BUS\bin\Debug\EntityFramework.xml
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Session_08\Session_08.BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Session_08\Session_08.BUS\obj\Debug\Session_08.BUS.csproj.AssemblyReference.cache
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Session_08\Session_08.BUS\obj\Debug\Session_08.BUS.csproj.CoreCompileInputs.cache
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Session_08\Session_08.BUS\obj\Debug\Session_.08273BFA.Up2Date
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Session_08\Session_08.BUS\obj\Debug\Session_08.BUS.dll
+D:\SourceCode\VisualStudio\CSharp\Programming-on-Windows-Environment\Session_08\Session_08.BUS\obj\Debug\Session_08.BUS.pdb
